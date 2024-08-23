@@ -10,12 +10,12 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "917605902011;GURU;6281255369012;Ash"
+      "value": "917526989574"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ"
+      "value": "ᴛʜᴇ DoOmSss-ʙᴏᴛ"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -25,7 +25,7 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "GuruBot~XAm2Uvez"
     },
     "MODE": {
       "description": "mode public or private",
